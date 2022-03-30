@@ -19,9 +19,9 @@ const Signin = () => {
       />
       <View style={styles.content}>
         <Text style={styles.title}>
-          Organize {`\n`}
-          suas jogatinas {`\n`}
-          facilmente
+          Conecta-se {`\n`}
+          e organize suas {`\n`}
+          jogatinas
         </Text>
         <Text style={styles.Subtitle}>
           Crie grupos para jogar seus games {`\n`} favoritos com seus amigos
